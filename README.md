@@ -1,5 +1,11 @@
-❤️  **Web & Mobile Dev** (Elm or JS for websites, Flutter for cross-platform mobile apps)
+❤️  **Web & Mobile Dev**
+* Elm or JavaScript for websites
+* Flutter for cross-platform mobile apps
 
-❤️  **Programming Languages** (use Rust and Python often, made 2 myself)
+❤️  **Programming Languages**
+* Use Rust and Python often
+* Familiar with Programming Language Theory and Program Synthesis
 
-❤️  **Natural Languages** (interested in phonetics, character encoding, and writing systems)
+❤️  **Natural Languages**
+* Interested in phonetics, character encoding, and writing systems
+* Experienced in processing Chinese characters, Hangeul, and various romanizations
