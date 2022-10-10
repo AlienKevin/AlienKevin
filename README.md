@@ -1,7 +1,5 @@
-❤️  **Open source/Creative Commons** (welcome all open code, data, font, image, education, ...)
+❤️  **Web & Mobile Dev** (Elm or JS for websites, Flutter for cross-platform mobile apps)
 
-❤️  **Web Dev** (especially with Elm-lang, functional programming all the way!)
+❤️  **Programming Languages** (use Rust and Python often, made 2 myself)
 
-❤️  **Programming languages** (use Elm, JS, Rust, and C++, made 2 myself)
-
-❤️  **Hanzi 漢字** (curious about the origin, meaning, and encoding of Chinese characters)
+❤️  **Natural Languages** (interested in phonetics, character encoding, and writing systems)
