@@ -1,3 +1,5 @@
+[View My Resume](https://github.com/AlienKevin/resume/raw/main/resume.pdf)
+
 ## Web & Mobile Dev
 * Web apps with React or Elm
 * ASP.NET MVC web apps with C#
