@@ -2,15 +2,15 @@
 
 ## Web & Mobile Dev
 * Web apps with React or Elm
-* ASP.NET MVC web apps with C#
 * Cross-platform mobile apps with Flutter
+* iOS apps and macOS input methods with Swift
 
 ## Programming Languages
-* Proficient in Rust, Python, and C++
-* Familiar with Programming Language Theory and Program Synthesis
-* Experimenting with dependent types and gradual typing
+* Proficient in Rust, C++, Python, Dart, Swift, and JavaScript
+* Research experience with Program Synthesis using Finite Tree Automatas
+* Familiar with programming language theory and functional programming
 
 ## Linguistics
-* Minor in Linguistics with interest in phonetics, semantics, and writing systems
-* Experienced in processing Chinese characters, Hangeul, and various romanizations
-* Studying Natural Language Processing
+* Minor in Linguistics with interest in phonetics and writing systems
+* Experienced in processing Chinese characters, romanizations of Chinese dialects, and Hangeul
+* Experimenting with speech recognition using Whisper and other models
