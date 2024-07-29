@@ -1,5 +1,5 @@
 # Kevin Xiang Li
-[View My Resume](https://github.com/AlienKevin/resume/raw/main/resume.pdf)
+[My website](https://kevinx.li/)
 
 ## Always at the cutting edge: AR/VR/Mobile Development
 I am passionate about leveraging cutting-edge technologies like AR/VR and Flutter to create innovative applications. My projects include:
