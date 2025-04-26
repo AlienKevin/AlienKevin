@@ -2,7 +2,7 @@
 [My website](https://kevinx.li/)
 
 ## Always at the cutting edge: ML/AR/Mobile Dev
-I am passionate about leveraging cutting-edge technologies like ML, AR/VR and Flutter to create innovative applications. My projects include:
+I am passionate about building cutting-edge technologies in CV, NLP and Mobile to create innovative solutions.
 - **[VideoMultiAgent](https://github.com/PanasonicConnect/VideoMultiAgents)**: SOTA multi-agent VQA system on Intent-QA (79.0%, +6.2% over previous SOTA), EgoSchema subset (75.4%, +3.4%), and NExT-QA (79.6%, +0.4%) through specialized agents for visual, textual, and graph-based reasoning.
 - **[On-Device NLP library](https://kevinx.li/projects/dips)**: Developed DIPS, a lightweight Cantonese word segmentation model achieving near SOTA performance while being 17x smaller and 3x faster than baselines. Utilized a suite of model optimization techniques including knowledge distillation, structured pruning, and quantization to reduce a BERT model's size from 51MB down to 3MB for deployment to edge devices.
 - **[Cantonese Dictionary Mobile App](https://kevinx.li/projects/wordshk)**: Developed a cross-platform mobile app using Flutter and Rust, supporting efficient search across 15K+ dictionary entries. Optimized user experience with local SQLite and cloud DynamoDB databases. Gained over 5K monthly active users.
